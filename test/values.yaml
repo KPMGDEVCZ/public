@@ -1,2 +1,4 @@
 nameOverride: ""
 fullnameOverride: ""
+
+token: <path:kv-v2/data/argocd#password>
